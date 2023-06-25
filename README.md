@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sonerkcardak/sonerkcardak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://tr.linkedin.com/in/soner-%C3%A7ardak-6b2365162/en?trk=people-guest_people_search-card) 
@@ -18,3 +13,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
